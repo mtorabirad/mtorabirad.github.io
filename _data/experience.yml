@@ -1,4 +1,24 @@
 - company: ACCESS e.V.
   description: |
+    Current Projects
+
     - Driving AI strategy of the institute in close communication with software developers, 
     chemists, and physicists. Leading ML activities in the department.
+
+    -	Pairs Trading Strategies with Reinforcement Learning: Developing market-neutral stock 
+    trading strategies using deep reinforcement learning.
+
+    -	Text Summarization of Corporate Financial Documents: Applying traditional and deep learning 
+    text summarization techniques to accelerate Financial Statement Analysis of corporate 10-K filings and annual reports.
+
+    -	Neural networks: Extended their application to the research field. Publishing theory-training techniques and guidelines 
+    that resulted in 10/3X improvements in the training/inference performances of neural networks.
+
+    -	ML Ops: Deploying a TensorFlow model on Google Cloud. Conducted profile-guided optimization. Restructured the code to keep 
+    parts exposed to incoming requests to an absolute minimum. Resulted in a 5X improvement in the response time. 
+
+    Past Projects
+
+    - Developed an object-oriented code using scikit-learn, following software-engineering best practices, to build linear/tree-based regression models for Airbnb prices. Performed feature engineering/selection, Grid Search hyper-parameter tuning, and statistical hypothesis testing. 
+    
+    -	Prepared a tutorial about CNNs that later achieved LinkedIn trending status.
