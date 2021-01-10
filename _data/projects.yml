@@ -10,10 +10,10 @@
     three S&P500 sectors. The RL optimized parameters resulted in a significant increase in the final return compared to standard parameter values.
 
 - name: Theory-training Neural Networks
-  #link: github.com/mnabian
+  link: https://www.sciencedirect.com/science/article/abs/pii/S0927025620301786
   #github: mnabian/DNN_Reliability_Repository
   description: | # this will include new lines to allow paragraphs
-    Extended their application to the field of solidification modeling. Analyzed the deteriorating effects of an oscillating loss on a 
+    Extended the application of neural networks to my research field for the first time. Analyzed the deteriorating effects of an oscillating loss on a 
     network’s ability to fit training data and on its inference performance. Introduced a theory-training technique that, by leveraging 
     regularization, eliminates those oscillations, decreases the final training loss, and improves the inference accuracy, with no additional 
     computational cost. Invited to give a seminar about the project at NVIDIA.
