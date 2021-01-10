@@ -1,7 +1,6 @@
 # Project template
 
 - name: Pairs Trading with Reinforcement Learning
-  link: github.com/mtorabirad
   github: mtorabirad/Pair-Trading-Reinforcement-Learning
   description: | # this will include new lines to allow paragraphs
     Used RL to optimize the parameters of a market-neutral pairs-trading strategy. Utilized Monte Carlo Policy Gradient. 
@@ -11,7 +10,6 @@
 
 - name: Theory-training Neural Networks
   link: http://bit.ly/35tNMbv
-  #github: mnabian/DNN_Reliability_Repository
   description: | # this will include new lines to allow paragraphs
     Extended the application of neural networks to my research field for the first time. Analyzed the deteriorating effects of an oscillating loss on a 
     network’s ability to fit training data and on its inference performance. Introduced a theory-training technique that, by leveraging 
@@ -19,8 +17,7 @@
     computational cost. Invited to give a seminar about the project at NVIDIA.
 
 - name: Regression
-  #link: github.com/mnabian
-  #github: mnabian/DNN_Reliability_Repository
+  #github: mtorabirad/PricePrediction
   description: | 
     Developed an object-oriented code using scikit-learn, following software-engineering best practices, to build linear/tree-based 
     regression models to predict Airbnb prices. Performed feature engineering/selection, Grid Search hyper-parameter tuning, statistical 
