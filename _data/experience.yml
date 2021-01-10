@@ -1,10 +1,8 @@
-- company: ACCESS e.V.
-  2018 - PRESENT
-  description: |
-    Initiated AI activities in the institute and managing an AI project in the department. 
-    Driving the institute’s AI strategy in close communication with software developers, chemists, and physicists.
-
-- company: University of Iowa
-  description: |
-    Initiated AI activities in the institute and managing an AI project in the department. 
-    Driving the institute’s AI strategy in close communication with software developers, chemists, and physicists.
+- company: Company 1
+  link: https://google.com
+  job_title: Job title 1
+  dates: November 2016 - present
+  quote: >
+   Short description of the company (optional)
+  description: >
+    Description of role
