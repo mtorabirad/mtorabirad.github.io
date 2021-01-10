@@ -10,7 +10,7 @@
     three S&P500 sectors. The RL optimized parameters resulted in a significant increase in the final return compared to standard parameter values.
 
 - name: Theory-training Neural Networks
-  link: https://www.sciencedirect.com/science/article/abs/pii/S0927025620301786
+  link: http://bit.ly/35tNMbv
   #github: mnabian/DNN_Reliability_Repository
   description: | # this will include new lines to allow paragraphs
     Extended the application of neural networks to my research field for the first time. Analyzed the deteriorating effects of an oscillating loss on a 
