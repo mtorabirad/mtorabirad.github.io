@@ -1,31 +1,50 @@
 # Project template
+- name: Sentiment Analysis of Tweets to Predict Stock Market Price Direction
+  # github: mtorabirad/Pair-Trading-Reinforcement-Learning
+  description: | # this will include new lines to allow paragraphs
+    - Obtained data from Twitter and Yahoo Finance APIs. 
+    - Used Spacy to build a customized NLP pipeline that feeds into a classifier. 
+    - Utilized a rule-based sentiment analysis tool specifically attuned to social media sentiments. 
+    - Comparing the performance of different classifiers. 
+
+- name: Computer Vision (CV)
+  # github: mtorabirad/Pair-Trading-Reinforcement-Learning
+  description: | # this will include new lines to allow paragraphs
+    - To speed up the analysis of lab experiments, designing a CV system that uses CNNs to automatically measure the size of solid particles with complex shapes growing inside a liquid. 
+    - Generated training data using computer simulations and labeled them using OpenCV. 
+    - Performed data augmentation. 
+    - Comparing the performance of RCNN, Fast RCNN, Faster RCNN, and Mask RCNN for the task. 
+
 
 - name: Pairs Trading with Reinforcement Learning
   github: mtorabirad/Pair-Trading-Reinforcement-Learning
-  description: | # this will include new lines to allow paragraphs
-    Used RL to optimize the parameters of a market-neutral pairs-trading strategy. Utilized Monte Carlo Policy Gradient. 
-    In the original GitHub repository, forked/starred more than a hundred times, fixed a critical bug that was unresolved 
-    for more than ten months [link]. Extended the code from stateless to contextual bandit. Identified stock pairs in the top 
-    three S&P500 sectors. The RL optimized parameters resulted in a significant increase in the final return compared to standard parameter values.
+  description: | 
+    - Used RL to optimize the parameters of a market-neutral pairs-trading strategy. 
+    - Utilized Monte Carlo Policy Gradient. 
+    - In the original GitHub repository, forked/starred more than a hundred times, fixed a critical bug that was unresolved for more than ten months [link]. 
+    - Extended the code from stateless to contextual bandit. 
+    - Identified stock pairs in the top three S&P500 sectors. 
+    - The RL optimized parameters resulted in a significant increase in the final return compared to standard parameter values.
 
 - name: Theory-training Neural Networks
   link: http://bit.ly/35tNMbv
-  description: | # this will include new lines to allow paragraphs
-    Extended the application of neural networks to my research field for the first time. Analyzed the deteriorating effects of an oscillating loss on a 
-    network’s ability to fit training data and on its inference performance. Introduced a theory-training technique that, by leveraging 
-    regularization, eliminates those oscillations, decreases the final training loss, and improves the inference accuracy, with no additional 
-    computational cost. Invited to give a seminar about the project at NVIDIA.
+  description: | 
+    - Extended the application of neural networks to my research field for the first time. 
+    - Analyzed the deteriorating effects of an oscillating loss on a network’s ability to fit training data and on its inference performance. 
+    - Introduced a theory-training technique that, by leveraging regularization, eliminates those oscillations, decreases the final training loss, and improves the inference accuracy, with no additional computational cost. 
+    - Invited to give a seminar about the project at NVIDIA.
 
 - name: Regression
-  #github: mtorabirad/PricePrediction
+  github: mtorabirad/PricePrediction
   description: | 
-    Developed an object-oriented code using scikit-learn, following software-engineering best practices, to build linear/tree-based 
-    regression models to predict Airbnb prices. Performed feature engineering/selection, Grid Search hyper-parameter tuning, statistical 
-    hypothesis testing, and feature importance analysis. Drew insights that can be used to make more profitable business decisions. 
+    - Developed an object-oriented code using scikit-learn, following software-engineering best practices, to build linear/tree-based 
+    regression models to predict Airbnb prices. 
+    - Performed feature engineering/selection, Grid Search hyper-parameter tuning, statistical hypothesis testing, and feature importance analysis. 
+    - Drew insights that can be used to make more profitable business decisions. 
 
 - name: ML Ops
-  #link: github.com/mnabian
-  #github: mnabian/DNN_Reliability_Repository
   description: | 
-    Deployed a TensorFlow model on Google Cloud. Conducted profile-guided optimization. Restructured the code to keep parts exposed to 
-    incoming requests to an absolute minimum. Resulted in an about 5X improvement in the response time. 
+    - Deployed a TensorFlow model on Google Cloud. 
+    - Conducted profile-guided optimization. 
+    - Restructured the code to keep parts exposed to incoming requests to an absolute minimum. 
+    - Resulted in an about 5X improvement in the response time. 
