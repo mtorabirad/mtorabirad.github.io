@@ -1,15 +1,15 @@
 # Project template
 
-- name: Pairs Trading Strategies with Reinforcement Learning (RL)
-  #link: github.com/mnabian
-  #github: mnabian/DNN_Reliability_Repository
+- name: Pairs Trading with Reinforcement Learning
+  link: github.com/mtorabirad
+  github: mtorabirad/Pair-Trading-Reinforcement-Learning
   description: | # this will include new lines to allow paragraphs
     Used RL to optimize the parameters of a market-neutral pairs-trading strategy. Utilized Monte Carlo Policy Gradient. 
     In the original GitHub repository, forked/starred more than a hundred times, fixed a critical bug that was unresolved 
     for more than ten months [link]. Extended the code from stateless to contextual bandit. Identified stock pairs in the top 
     three S&P500 sectors. The RL optimized parameters resulted in a significant increase in the final return compared to standard parameter values.
 
-- name: Theory-training neural networks
+- name: Theory-training Neural Networks
   #link: github.com/mnabian
   #github: mnabian/DNN_Reliability_Repository
   description: | # this will include new lines to allow paragraphs
