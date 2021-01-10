@@ -1,8 +1,34 @@
 # Project template
 
+- name: Pairs Trading Strategies with Reinforcement Learning (RL)
+  #link: github.com/mnabian
+  #github: mnabian/DNN_Reliability_Repository
+  description: | # this will include new lines to allow paragraphs
+    Used RL to optimize the parameters of a market-neutral pairs-trading strategy. Utilized Monte Carlo Policy Gradient. 
+    In the original GitHub repository, forked/starred more than a hundred times, fixed a critical bug that was unresolved 
+    for more than ten months [link]. Extended the code from stateless to contextual bandit. Identified stock pairs in the top 
+    three S&P500 sectors. The RL optimized parameters resulted in a significant increase in the final return compared to standard parameter values.
+
 - name: Theory-training neural networks
   #link: github.com/mnabian
   #github: mnabian/DNN_Reliability_Repository
   description: | # this will include new lines to allow paragraphs
-    to be added...
+    Extended their application to the field of solidification modeling. Analyzed the deteriorating effects of an oscillating loss on a 
+    network’s ability to fit training data and on its inference performance. Introduced a theory-training technique that, by leveraging 
+    regularization, eliminates those oscillations, decreases the final training loss, and improves the inference accuracy, with no additional 
+    computational cost. Invited to give a seminar about the project at NVIDIA.
 
+- name: Regression
+  #link: github.com/mnabian
+  #github: mnabian/DNN_Reliability_Repository
+  description: | 
+    Developed an object-oriented code using scikit-learn, following software-engineering best practices, to build linear/tree-based 
+    regression models to predict Airbnb prices. Performed feature engineering/selection, Grid Search hyper-parameter tuning, statistical 
+    hypothesis testing, and feature importance analysis. Drew insights that can be used to make more profitable business decisions. 
+
+- name: ML Ops
+  #link: github.com/mnabian
+  #github: mnabian/DNN_Reliability_Repository
+  description: | 
+    Deployed a TensorFlow model on Google Cloud. Conducted profile-guided optimization. Restructured the code to keep parts exposed to 
+    incoming requests to an absolute minimum. Resulted in an about 5X improvement in the response time. 
