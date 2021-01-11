@@ -25,13 +25,13 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 more_title: Skills
 more_content: | 
-  - Programming Languages: Python, C++, MATLAB, Go, Scala 
-  -	Python Libraries: SciPy, NumPy, Pandas, Matplotlib, Jupyter
-  -	Naturel Language Processing (NLP): NLTK, Gensim, Spacy
-  -	Deep Learning Frameworks: TensorFlow, PyTorch, Keras
-  -	Computer Vision: CUDA, OpenCV
-  -	Data Engineering: SQL, Scrappy
-  -	Big Data and Cloud Technologies: Spark and AWS
+  - **Programming Languages**: Python, C++, MATLAB, Go, Scala 
+  -	**Python Libraries**: SciPy, NumPy, Pandas, Matplotlib, Jupyter
+  -	**Naturel Language Processing (NLP)**: NLTK, Gensim, Spacy
+  -	**Deep Learning Frameworks**: TensorFlow, PyTorch, Keras
+  -	**Computer Vision**: CUDA, OpenCV
+  -	**Data Engineering**: SQL, Scrappy
+  -	**Big Data and Cloud Technologies**: Spark and AWS
 
 
 # Footer
