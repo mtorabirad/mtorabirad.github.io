@@ -22,7 +22,7 @@
     - Used RL to optimize the parameters of a market-neutral pairs-trading strategy. 
     - Utilized Monte Carlo Policy Gradient. 
     - In the original GitHub repository, forked/starred more than a hundred times, fixed a [critical bug](https://github.com/wai-i/Pair-Trading-Reinforcement-Learning/issues/8)
-     that was unresolved for more than ten months [link]. 
+     that was unresolved for more than ten months. 
     - Extended the code from stateless to contextual bandit. 
     - Identified stock pairs in the top three S&P500 sectors. 
     - The RL optimized parameters resulted in a significant increase in the final return compared to standard parameter values.
