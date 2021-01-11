@@ -9,7 +9,7 @@
 
 - name: Computer Vision (CV)
   # github: mtorabirad/Pair-Trading-Reinforcement-Learning
-  description: | # this will include new lines to allow paragraphs
+  description: | 
     - To speed up the analysis of lab experiments, designing a CV system that uses CNNs to automatically measure the size of solid particles with complex shapes growing inside a liquid. 
     - Generated training data using computer simulations and labeled them using OpenCV. 
     - Performed data augmentation. 
