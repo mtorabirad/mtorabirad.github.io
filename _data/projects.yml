@@ -34,7 +34,7 @@
     - Analyzed the deteriorating effects of an oscillating loss on a network’s ability to fit training data and on its inference performance. 
     - Introduced a theory-training technique that, by leveraging regularization, eliminates those oscillations, decreases the final training loss, 
     and improves the inference accuracy, with no additional computational cost. 
-    - Invited to give a seminar about the project at NVIDIA.
+    - Invited to give a seminar about the project at **NVIDIA**.
 
 - name: Regression
   github: mtorabirad/PricePrediction
