@@ -21,7 +21,8 @@
   description: | 
     - Used RL to optimize the parameters of a market-neutral pairs-trading strategy. 
     - Utilized Monte Carlo Policy Gradient. 
-    - In the original GitHub repository, forked/starred more than a hundred times, fixed a critical bug that was unresolved for more than ten months [link]. 
+    - In the original GitHub repository, forked/starred more than a hundred times, fixed a [critical bug](https://github.com/wai-i/Pair-Trading-Reinforcement-Learning/issues/8)
+     that was unresolved for more than ten months [link]. 
     - Extended the code from stateless to contextual bandit. 
     - Identified stock pairs in the top three S&P500 sectors. 
     - The RL optimized parameters resulted in a significant increase in the final return compared to standard parameter values.
@@ -31,7 +32,8 @@
   description: | 
     - Extended the application of neural networks to my research field for the first time. 
     - Analyzed the deteriorating effects of an oscillating loss on a network’s ability to fit training data and on its inference performance. 
-    - Introduced a theory-training technique that, by leveraging regularization, eliminates those oscillations, decreases the final training loss, and improves the inference accuracy, with no additional computational cost. 
+    - Introduced a theory-training technique that, by leveraging regularization, eliminates those oscillations, decreases the final training loss, 
+    and improves the inference accuracy, with no additional computational cost. 
     - Invited to give a seminar about the project at NVIDIA.
 
 - name: Regression
