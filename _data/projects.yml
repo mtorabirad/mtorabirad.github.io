@@ -44,9 +44,15 @@
     - Performed feature engineering/selection, Grid Search hyper-parameter tuning, statistical hypothesis testing, and feature importance analysis. 
     - Drew insights that can be used to make more profitable business decisions. 
 
-- name: ML Ops
+- name: MLOps
   description: | 
-    - Deployed a [TensorFlow model on Google Cloud](https://beta.mybinder.org/v2/gh/lukas-koschmieder/ttn-solid2d-ipynb/master?filepath=ttn-solid2d.ipynb). 
-    - Conducted profile-guided optimization. 
+    - To present neural networks' distinguishing capabilities to decision-makers and facilitate collaboration with external project partners, deployed a theory-trained neural network on Google Cloud. Created server/client codes and an interactive Jupyter user interface. 
+    - To reduce the response time, conducted profile-guided optimization.
     - Restructured the code to keep parts exposed to incoming requests to an absolute minimum. 
-    - Resulted in an about 5X improvement in the response time. 
+    - Resulted in a decrease in the response time from eight to less than two seconds. 
+    - Enabled Marketing Department to present live simulations demonstrating cutting-edge research, which contributed to securing additional funding.
+
+
+
+
+
