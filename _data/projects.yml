@@ -20,7 +20,7 @@
   github: mtorabirad/Pair-Trading-Reinforcement-Learning
   description: | 
     - Trained RL agent to optimize the parameters of a market-neutral pairs-trading strategy that resulted in significant increase in the final return compared to standard rule-based methods.
-    - Made significant improvements to the popular source code, such as fixing a [critical bug] (https://github.com/wai-i/Pair-Trading-Reinforcement-Learning/issues/8) and extending it from stateless to contextual bandit.
+    - Made significant improvements to the popular source code, such as fixing a [critical bug](https://github.com/wai-i/Pair-Trading-Reinforcement-Learning/issues/8) and extending it from stateless to contextual bandit.
     - Reproduced results after identifying stock pairs from various sectors of the S&P 500. 
 
 
