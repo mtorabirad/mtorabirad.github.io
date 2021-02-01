@@ -2,10 +2,10 @@
 - name: Sentiment Analysis of Tweets to Predict Stock Market Price Direction
   github: mtorabirad/Sentiment-Analysis-Tweets
   description: | # this will include new lines to allow paragraphs
+    - Evaluated the efficacy of Tweet sentiment analysis to inform a trading strategy. 
     - Obtained data from Twitter and Yahoo Finance APIs. 
     - Used Spacy to build a customized NLP pipeline that feeds into a classifier. 
-    - Utilized a rule-based sentiment analysis tool specifically attuned to social media sentiments. 
-    - Comparing the performance of different classifiers. 
+    - Through comparing the performance of different classifiers, successfully identified the one most appropriate for the task. 
 
 - name: Computer Vision (CV)
   # github: mtorabirad/Pair-Trading-Reinforcement-Learning
@@ -19,29 +19,27 @@
 - name: Pairs Trading with Reinforcement Learning
   github: mtorabirad/Pair-Trading-Reinforcement-Learning
   description: | 
-    - Used RL to optimize the parameters of a market-neutral pairs-trading strategy. 
-    - Utilized Monte Carlo Policy Gradient. 
-    - In the original GitHub repository, forked/starred more than a hundred times, fixed a [critical bug](https://github.com/wai-i/Pair-Trading-Reinforcement-Learning/issues/8)
-     that was unresolved for more than ten months. 
-    - Extended the code from stateless to contextual bandit. 
-    - Identified stock pairs in the top three S&P500 sectors. 
-    - The RL optimized parameters resulted in a significant increase in the final return compared to standard parameter values.
+    - Trained RL agent to optimize the parameters of a market-neutral pairs-trading strategy that resulted in significant increase in the final return compared to standard rule-based methods.
+    - Made significant improvements to the popular source code, such as fixing a [critical bug] (https://github.com/wai-i/Pair-Trading-Reinforcement-Learning/issues/8) and extending it from stateless to contextual bandit.
+    - Reproduced results after identifying stock pairs from various sectors of the S&P 500. 
+
 
 - name: Theory-training Neural Networks
   link: http://bit.ly/35tNMbv
   description: | 
-    - Extended the application of neural networks to my research field for the first time. 
-    - Analyzed the deteriorating effects of an oscillating loss on a network’s ability to fit training data and on its inference performance. 
-    - Introduced a theory-training technique that, by leveraging regularization, eliminates those oscillations, decreases the final training loss, 
+    - To overcome the problem of curse of dimensionality, extended the application of neural networks to the field of computational materials science.
+    - Theory-trained neural networks to solve differential equations. 
+    - Introduced a technique that, by leveraging regularization, eliminates loss oscillations during training, decreases the final training loss, and improves the inference accuracy, with no additional computational cost. 
     and improves the inference accuracy, with no additional computational cost. 
-    - Was invited to give a seminar about the project at **NVIDIA**.
+    - Published papers and was invited to give a seminar about the project at **NVIDIA**.
+
 
 - name: Regression
   github: mtorabirad/PricePrediction
   description: | 
-    - Developed an object-oriented code using scikit-learn, following software-engineering best practices, to build linear/tree-based 
-    regression models to predict Airbnb prices. 
-    - Performed feature engineering/selection, Grid Search hyper-parameter tuning, statistical hypothesis testing, and feature importance analysis. 
+    - Utilized Airbnb price data to determine whether predictive models could be used to achieve investment objectives.  
+    - Developed an object-oriented code using scikit-learn, following software-engineering best practices, to build linear/tree-based regression models. 
+    - Performed feature engineering/selection, Grid Search hyper-parameter tuning, statistical hypothesis testing, and feature importance analysis.
     - Drew insights that can be used to make more profitable business decisions. 
 
 - name: MLOps
