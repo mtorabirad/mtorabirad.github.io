@@ -4,7 +4,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: Dr. Mahdi Torabi Rad
-title: Research Associate (Deep Learning)
+title: Data Scientist / Machine Learning Engineer
 email: mtorabirad@gmail.com
 phone: +1 647 4936057
 website: mtorabirad.github.io
@@ -35,7 +35,7 @@ more_content: |
 
 more_title_2: DEEP LEARNING INVITED TALKS/PUBLICATIONS
 more_content_2: | 
-  - M. Torabi Rad, (Feb. 5, 2021). Theory-training neural networks.  **NVIDIA SimNet Seminars (Invited)**. 
+  - M. Torabi Rad, (Feb. 2, 2021). Theory-training neural networks.  **NVIDIA SimNet Seminars (Invited)**. 
   - M. Torabi Rad et al., (2020). Theory-training deep neural networks for an alloy solidification benchmark problem. Computational Materials Science, 180, 109687.
   - M. Torabi Rad et al., (2020). On theory-training neural networks to infer the solution of highly coupled differential equations. Under Review in Computer Methods in Applied Mechanics and Engineering.
 
