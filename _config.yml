@@ -3,7 +3,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Dr. Mahdi Torabi Rad
+name: Mahdi Torabi Rad, Ph.D.
 title: Data Scientist / Machine Learning Engineer
 email: mtorabirad@gmail.com
 phone: +1 647 4936057

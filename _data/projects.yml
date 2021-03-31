@@ -1,4 +1,12 @@
 # Project template
+- name: Multilingual Grammatical Error Correction
+  youtube: https://www.youtube.com/watch?v=qNxENuQQun8&t=18s
+  description: | 
+    - Trained token-level predictive models that had inference speed 10 times faster than traditional GEC systems and circumvented non-interpretability in those systems.
+    - Identified XLNet as superior performer through comparison of currently available Transformer encoders.
+    - Achieved F_0.5 test scores of 0.65 for English and 0.42 for German. 
+    - Deployed the model via a Flask User Interface that allows users to submit documents through a web interface and receive corrected text.
+
 - name: Sentiment Analysis of Tweets to Predict Stock Market Price Direction
   github: mtorabirad/Sentiment-Analysis-Tweets
   description: | # this will include new lines to allow paragraphs
