@@ -1,6 +1,6 @@
 # Project template
 - name: Multilingual Grammatical Error Correction
-  link: https://www.youtube.com/watch?v=qNxENuQQun8&t=18s
+  link: bit.ly/2PniQovbit.
   description: | 
     - Trained token-level predictive models that had inference speed 10 times faster than traditional GEC systems and circumvented non-interpretability in those systems.
     - Identified XLNet as superior performer through comparison of currently available Transformer encoders.
